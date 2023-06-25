@@ -15,8 +15,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="[https://random-memer.herokuapp.com](https://camo.githubusercontent.com/a034f9ccd09e1d5f09cae408937e035d33fb1c616361f53a39bd050ab68d1b67/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966)https://camo.githubusercontent.com/a034f9ccd09e1d5f09cae408937e035d33fb1c616361f53a39bd050ab68d1b67/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muoi2905&icon=0&color=0)](https://visitcount.itsvg.in)
-
